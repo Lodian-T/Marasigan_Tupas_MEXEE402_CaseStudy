@@ -8,8 +8,8 @@ Batangas State University, Alangilan Campus
 
 | Name | Student Number | Section |
 |---|---|---|
-| Surname, First Name | | |
-| Surname, First Name | | |
+| Surname, First Name | Marasigan, Alden | MEXE-4101 |
+| Surname, First Name | Tupas, Lodian | MEXE-4101 |
 
 ## Notebook links
 
