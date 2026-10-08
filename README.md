@@ -13,15 +13,15 @@ Batangas State University, Alangilan Campus
 
 ## 📔 Notebook links
 
-| Chapter | Member 1 | Member 2 |
+| Chapter | Marasigan, Alden | Tupas, Lodian |
 |---|---|---|
-| Ch1_2_3 | [link]() | [link]() |
-| Ch4 | [link]() | [link]() |
-| Ch5 | [link]() | [link]() |
-| Ch6 | [link]() | [link]() |
-| Ch7 | [link]() | [link]() |
-| Ch8 | [link]() | [link]() |
-| Ch9 | [link]() | [link]() |
+| Ch1_2_3 | [link]() | https://colab.research.google.com/drive/1hDRaNvftASBy8CAJiLMuqrbxUX-EBwag?usp=sharing |
+| Ch4 | [link]() | https://colab.research.google.com/drive/1mheLgayAMAX1K0D_F2K5BgwD8S7CiB9p?usp=sharing |
+| Ch5 | [link]() | https://colab.research.google.com/drive/1NoS3P4YnMir36r4Tj76VcIc_K0yIeXqq?usp=sharing |
+| Ch6 | [link]() | https://colab.research.google.com/drive/1tNp55NRib7lng0xU6ixkh527-5YnbBDp?usp=sharing |
+| Ch7 | [link]() | https://colab.research.google.com/drive/1qZphFZbZprpsycKh8ARFSipCnk1W-aqo?usp=sharing |
+| Ch8 | [link]() | https://colab.research.google.com/drive/1dNoNIYaXNf0kbYrXHJnCraOySthx8vCC?usp=sharing |
+| Ch9 | [link]() | https://colab.research.google.com/drive/1AQvy_E1JffBGqwEGHUQq4wxTomyqrsFP?usp=sharing |
 
 ## 🧠 What we learned
 
