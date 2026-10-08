@@ -55,7 +55,7 @@ There are real ones in there. Finding them earns points.
 
 ## 🤖 Note on AI tools
 
-The students used AI such as Gemini for concept and idea verification, this is to ensure that there are no misconceptions between the actual idea of the topics and the student's learnings or obtained knowledge. Also Claude for program verification, that is why the students was able to answer the problem with Chapter 7's RFE program. 
+The students used AI tools such as Gemini and Claude. Gemini was used for concept and idea verification, to ensure that there are no misconceptions between the actual idea of the topics and the student's learnings or obtained knowledge. As for Claude, it was used for program verification and descriptions, that allowed the students to answer the problem with Chapter 7's RFE program. 
 
 ## ⛓️References
 
