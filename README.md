@@ -45,18 +45,17 @@ There are real ones in there. Finding them earns points.
 
 | Chapter | Errors Found |
 |---|---|
-| Ch1_2_3 |[link]() |
-| Ch4 | [link]() |
-| Ch5 | [link]() |
-| Ch6 | [link]() |
-| Ch7 | [link]() |
-| Ch8 | [link]() |
-| Ch9 | [link]() |
+| Ch1_2_3 | No Errors Found  |
+| Ch4 | No Errors Found |
+| Ch5 | No Errors Found  |
+| Ch6 | No Errors Found  |
+| Ch7 | The syntax and instructions was right, however the value of Cross-Validation (CV) in the RFE program was wrong. Having 5 as the value of CV was an error, since there are required pairings in order to satisfy R2 (Coefficient of Determination). Assuming the data set given has 6 rows, having 5 as the value makes the number of pairs imbalanced or the array pairing is wrong. With 3, there are exact number of pairs that allows R2 to perform its equation and provide a result. |
+| Ch8 | No Errors Found |
+| Ch9 | No Errors Found |
 
 ## 🤖 Note on AI tools
 
-Say whether you used an AI tool, and what for. This is not a penalty.
-Hiding it is.
+The students used AI such as Gemini for concept and idea verification, this is to ensure that there are no misconceptions between the actual idea of the topics and the student's learnings or obtained knowledge. Also Claude for program verification, that is why the students was able to answer the problem with Chapter 7's RFE program. 
 
 ## ⛓️References
 
