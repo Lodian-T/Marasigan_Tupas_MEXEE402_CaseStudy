@@ -254,9 +254,9 @@ ALDEN:
 
 | Methods | Features |
 |---|---|
-|Filter Method|relevant_features = correlations[correlations > 0.5]|
-|Wrapper Method| estimator = SVR(kernel="linear")|
-|Embedded Method|X = df_2.drop('final grade', axis=1)|
+|Filter Method| Study Hours, Assignments Completed, Class Participation, Final Grade |
+|Wrapper Method| Study Hours, Assignments Completed, Class Participation, Extracurricular Activities |
+|Embedded Method| Study Hours, Assignments Completed, Class Participation |
 
 LODIAN:
 | Methods Mentioned | Features |
