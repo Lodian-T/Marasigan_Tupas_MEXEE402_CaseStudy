@@ -238,6 +238,8 @@ Any other page or article you used.
 
  	LODIAN: Recursive Feature Elimination or RFE has two types of Step Selection (Forward and Backward). Basically, these steps are made in order to determine which set is best. This is normally partnered with Cross-Validation (CV), pairing the rows in the given dataset to satisfy the requirements of R2 (Coefficient of Determination).
 
+	>Claude AI has been used in this section for elaboration and understanding. The contents of the answer is also based on the Notebook and the learner’s best understanding of the AI’s explanation.
+ >
 4. What does LassoCV do to features that are not important?
 
 	ALDEN: Essentially, LassoCV reduces the value of the useless feature until it reaches zero and lets it stay there; basically excluding them from the model.
