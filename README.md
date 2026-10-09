@@ -15,13 +15,13 @@ Batangas State University, Alangilan Campus
 
 | Chapter | Marasigan, Alden | Tupas, Lodian |
 |---|---|---|
-| Ch1_2_3 | https://colab.research.google.com/drive/1tzEO2dmpvWIQXrWunWQff42qqUk2o4Px#scrollTo=eHF2OXY5GSQA | https://colab.research.google.com/drive/1hDRaNvftASBy8CAJiLMuqrbxUX-EBwag?usp=sharing |
-| Ch4 | https://colab.research.google.com/drive/18QgJTsmmBEk_6jfOchyTuaR-hQE41Y37 | https://colab.research.google.com/drive/1mheLgayAMAX1K0D_F2K5BgwD8S7CiB9p?usp=sharing |
-| Ch5 | https://colab.research.google.com/drive/1Kgh6saVi40ZGhKN8IIeNsnwBwBzGgU8t | https://colab.research.google.com/drive/1NoS3P4YnMir36r4Tj76VcIc_K0yIeXqq?usp=sharing |
-| Ch6 | https://colab.research.google.com/drive/1jn6HjwaXqkk-dla-VaXMaMJHnA4x4YHw | https://colab.research.google.com/drive/1tNp55NRib7lng0xU6ixkh527-5YnbBDp?usp=sharing |
-| Ch7 | https://colab.research.google.com/drive/1wuDjL4TOEyO4JqAs2AgNlrRk5U0zfdlN | https://colab.research.google.com/drive/1qZphFZbZprpsycKh8ARFSipCnk1W-aqo?usp=sharing |
-| Ch8 | https://colab.research.google.com/drive/1hH0_JXB8Ek_nZV06YLkkmiPKDtpvQfu- | https://colab.research.google.com/drive/1dNoNIYaXNf0kbYrXHJnCraOySthx8vCC?usp=sharing |
-| Ch9 | https://colab.research.google.com/drive/1IJDuS3jjPhR0f24ZLCy2Xde0GYXpPuF8 | https://colab.research.google.com/drive/1AQvy_E1JffBGqwEGHUQq4wxTomyqrsFP?usp=sharing |
+| Ch1_2_3 | https://colab.research.google.com/drive/1tzEO2dmpvWIQXrWunWQff42qqUk2o4Px#scrollTo=eHF2OXY5GSQA | https://colab.research.google.com/drive/1hDRaNvftASBy8CAJiLMuqrbxUX-EBwag |
+| Ch4 | https://colab.research.google.com/drive/18QgJTsmmBEk_6jfOchyTuaR-hQE41Y37 | https://colab.research.google.com/drive/1mheLgayAMAX1K0D_F2K5BgwD8S7CiB9p |
+| Ch5 | https://colab.research.google.com/drive/1Kgh6saVi40ZGhKN8IIeNsnwBwBzGgU8t | https://colab.research.google.com/drive/1NoS3P4YnMir36r4Tj76VcIc_K0yIeXqq |
+| Ch6 | https://colab.research.google.com/drive/1jn6HjwaXqkk-dla-VaXMaMJHnA4x4YHw | https://colab.research.google.com/drive/1tNp55NRib7lng0xU6ixkh527-5YnbBDp |
+| Ch7 | https://colab.research.google.com/drive/1wuDjL4TOEyO4JqAs2AgNlrRk5U0zfdlN | https://colab.research.google.com/drive/1qZphFZbZprpsycKh8ARFSipCnk1W-aqo |
+| Ch8 | https://colab.research.google.com/drive/1hH0_JXB8Ek_nZV06YLkkmiPKDtpvQfu- | https://colab.research.google.com/drive/1dNoNIYaXNf0kbYrXHJnCraOySthx8vCC |
+| Ch9 | https://colab.research.google.com/drive/1IJDuS3jjPhR0f24ZLCy2Xde0GYXpPuF8 | https://colab.research.google.com/drive/1AQvy_E1JffBGqwEGHUQq4wxTomyqrsFP |
 
 ## 🧠 What we learned
 
