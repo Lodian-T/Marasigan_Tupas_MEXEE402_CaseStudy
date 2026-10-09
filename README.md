@@ -321,7 +321,7 @@ LODIAN:
    
 3. What is discretization? What three age labels did the notebook use, and what age ranges do they cover?
 
-	ALDEN: Discretization basically turns continuous data into distinct categories. The notebook use 0 – 12 to describe a “Child:, 12 – 50 to describe an “Adult”, 50 – 200 to describe the “Elderly”.
+	ALDEN: Discretization basically turns continuous data into distinct categories. The notebook use 0 – 12 to describe a “Child:, 13 – 50 to describe an “Adult”, 50 – 200 to describe the “Elderly”.
 
   	LODIAN: Discretization converts a numerical data into certain categories or bins. As for the age labels, the program included the label 'Child', 'Adult', and 'Elderly'. As for their ranges, the label 'Child' is from 0-12, and 'Adult' is from 13-50, and the 'Elderly' is from 51-200. 
 
