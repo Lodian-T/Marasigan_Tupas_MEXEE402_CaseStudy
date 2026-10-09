@@ -194,18 +194,11 @@ Any other page or article you used.
 
 5. Which features did each of the three methods choose? Put them in a short table.
 
-METHODS
-FEATURES
-
-Filter Method
-relevant_features = correlations[correlations > 0.5]
-
-Wrapper Method
-estimator = SVR(kernel="linear")
-print(estimator)
-
-Embedded Method
-X = df_2.drop('final grade', axis=1)
+| Methods | Features |
+|---|---|
+|Filter Method|relevant_features = correlations[correlations > 0.5]|
+|Wrapper Method| estimator = SVR(kernel="linear")|
+|Embedded Method|X = df_2.drop('final grade', axis=1)|
 
 
 ## Chapter 8: Constructing a preprocessing pipeline
