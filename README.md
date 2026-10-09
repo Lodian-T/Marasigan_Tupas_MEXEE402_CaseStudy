@@ -110,7 +110,9 @@ Any other page or article you used.
 
 4. What is an interaction feature? Give the example from the notebook.
 
-	An interaction feature, from what I understand, is utilizing a variable with a new variable to produce a new feature. In the notebook, Ice cubes per degree is used to show a relationship between the amount of ice used in the lemonade and the ambient temperature.
+	An interaction feature is utilizing a variable with a new variable to produce a new feature. In the notebook, Ice cubes per Degree is used to show a relationship between the amount of ice used in the lemonade and the ambient temperature.
+
+	>Claude AI has been used in this section for elaboration and understanding. The contents of the answer is based on the learner’s best understanding of the AI’s explanation. 
 
 5. What is the difference between one-hot encoding and ordinal encoding?
 
