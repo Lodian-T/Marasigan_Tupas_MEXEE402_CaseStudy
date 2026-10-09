@@ -1,4 +1,4 @@
-# MexEE-402-Data-Preprocessing-Case-Study_Group10
+# Marasigan_Tupas_MEXEE402_CaseStudy
 
 MexEE Elective 2: Data Science and Machine Learning
 Batangas State University, Alangilan Campus
