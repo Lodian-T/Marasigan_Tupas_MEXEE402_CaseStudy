@@ -106,7 +106,7 @@ Any other page or article you used.
 
 3. What is binning? List the four temperature labels used in the notebook.
 
-	From what I observed, binning is turning numerical data into categorical data. According to what I see in the notebook; 71 – 75 is considered Cool, 76 – 85 is Warm, 86 - 95 is Hot, and 95 – 100 is Very Hot.
+	Binning is turning numerical data into categorical data. According to what is in the notebook; 71 – 75 is considered Cool, 76 – 85 is Warm, 86 - 95 is Hot, and 95 – 100 is Very Hot.
 
 4. What is an interaction feature? Give the example from the notebook.
 
