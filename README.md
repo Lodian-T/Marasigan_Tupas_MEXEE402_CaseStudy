@@ -78,7 +78,7 @@ Any other page or article you used.
 
 2. What does each of these show you: head(), info(), and describe()?
 
-	The Head() function displays if the data is numerical (int64 or float) or categorical (object). The info() function displays a sneak peek of the data by showing 5 (or more) rows from all columns. Lastly, describe() shows the statistical analysis summary(mean, median, mode, standard deviation, etc.) of the data.
+	The Head() function displays if the data is numerical (int64 or float) or categorical (object). The info() function displays a sneak peek of the data by showing 5 (or more) rows from all columns. Lastly, describe() shows the statistical analysis summary (mean, median, mode, standard deviation, etc.) of the data.
   
 3. Which columns in the dataset had missing values? How many were missing in each?
 
@@ -88,7 +88,7 @@ Any other page or article you used.
 
 	There are 2 ways to handle missing data values, either deletion or imputation. Deletion can only be used if the amount of null values are very low but risks removing valuable information. Imputation, on the other hand, inputs calculated values into the missing values. Deletion can be done if the dataset is large, while imputation can be done if the dataset is small and deletion would shrink the dataset.
 
-*Claude AI has been used to aid in this answer. 
+	> Claude AI has been used to understand the difference of the two. The answer is based on the student's understanding from the Notebook and the AI's explanation.
 
 5. Why was the Rank column dropped from the dataset?
 
@@ -98,15 +98,15 @@ Any other page or article you used.
 
 1. What is feature engineering, in your own words?
 
-  Feature engineering is a method of showing relationships between different sets of data. Like the example given in the colab, it shows a relationship or influence between temperature and sales. 
+	Feature engineering is a method of showing relationships between different sets of data. Like the example given in the colab, it shows a relationship or influence between temperature and sales. 
 
 2. How was Lemonade per Degree computed, and what does it tell you about the sales?
 
-  The lemonade per degree feature is calculated by dividing the amount of sales by the temperature value in Fahrenheit. The sales are showing to have a slightly positive relationship where the increase in temperature shows an increase in lemonade sales.
+	The lemonade per degree feature is calculated by dividing the amount of sales by the temperature value in Fahrenheit. The sales are showing to have a slightly positive relationship where the increase in temperature shows an increase in lemonade sales.
 
 3. What is binning? List the four temperature labels used in the notebook.
 
-  From what I observed, binning is turning numerical data into categorical data. According to what I see in the notebook; 71 – 75 is considered Cool, 76 – 85 is Warm, 86 - 95 is Hot, and 95 – 100 is Very Hot.
+	From what I observed, binning is turning numerical data into categorical data. According to what I see in the notebook; 71 – 75 is considered Cool, 76 – 85 is Warm, 86 - 95 is Hot, and 95 – 100 is Very Hot.
 
 4. What is an interaction feature? Give the example from the notebook.
 
@@ -130,7 +130,7 @@ Any other page or article you used.
 
 	Based on additional resources, the StandardScaler apparently uses the mean/average and turns it into 0 while the standard deviation is used/turned into 1. It does not change the shape of the distribution, it just rescales it.
   
-*Claude AI has been used in this section for elaboration and deeper understanding of the question and its answer, the written output is the learning of the student. 
+	>Claude AI has been used in this section for elaboration and deeper understanding of the question and its answer, the written output is the learning of the student. 
 
 3. What range of values does MinMaxScaler give you?
 
@@ -148,7 +148,7 @@ Any other page or article you used.
 
 1. What is an outlier?
 
-  An outlier is a data point that deviates from the standard/theoretical spread of data. It could be an extremely high or extremely low value that is positioned away from the majority of the data.  
+	An outlier is a data point that deviates from the standard/theoretical spread of data. It could be an extremely high or extremely low value that is positioned away from the majority of the data.  
 
 2. How does the Z-score method find outliers? What cutoff did the notebook use?
 
@@ -176,19 +176,19 @@ Any other page or article you used.
 
 	The filter method uses correlation in order to decide. Any data that does not have any form of correlation to the reference data will be dropped since there would be no observed relationship between the two and would likely be just random noise. 
 
-*Claude AI has been used in this section for elaboration and understanding. The contents of the answer is based on the learner’s best understanding of the AI’s explanation. 
+	>Claude AI has been used in this section for elaboration and understanding. The contents of the answer is based on the learner’s best understanding of the AI’s explanation. 
 
 3. What does RFECV do, step by step?
 
 	RFECV first chooses an estimator model that determines the feature importance. Next, create the RFE object and compute the cross-validated score. Then fit the data and finally print. 
 
-*Claude AI has been used in this section for elaboration and understanding. The contents of the answer is also based on the Notebook and the learner’s best understanding of the AI’s explanation. 
+	>Claude AI has been used in this section for elaboration and understanding. The contents of the answer is also based on the Notebook and the learner’s best understanding of the AI’s explanation. 
 
 4. What does LassoCV do to features that are not important?
 
 	Essentially, LassoCV reduces the value of the useless feature until it reaches zero and lets it stay there; basically excluding them from the model.
   
-*Claude AI has been used in this section for elaboration and understanding. The contents of the answer is based on the learner’s best understanding of the AI’s explanation. 
+	>Claude AI has been used in this section for elaboration and understanding. The contents of the answer is based on the learner’s best understanding of the AI’s explanation. 
 
 5. Which features did each of the three methods choose? Put them in a short table.
 
@@ -220,13 +220,13 @@ X = df_2.drop('final grade', axis=1)
 
 	Within the preprocessing pipeline, the 2 steps inside it are: imputation, and scaling. Imputation to insert average value in the missing values of each column. While scaling standardizes the scale of the values.
   
-  *Claude AI has been used in this section for identification of the steps and understanding their uses. The contents of the answer is based on the learner’s best understanding of the AI’s explanation.
+  >Claude AI has been used in this section for identification of the steps and understanding their uses. The contents of the answer is based on the learner’s best understanding of the AI’s explanation.
 
 4. What does ColumnTransformer do?
 
 	The ColumnTransformer basically allows the user to simultaneously preprocess 2 different columns using 2 different methods. The results of this preprocessing will then produce a single unified output.
 
-  *Claude AI has been used in this section to understand the uses. The contents of the answer is based on the learner’s best understanding of the AI’s explanation.
+  >Claude AI has been used in this section to understand the uses. The contents of the answer is based on the learner’s best understanding of the AI’s explanation.
 
 5. Which two columns of the Titanic dataset were preprocessed in this chapter?
 
