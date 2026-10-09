@@ -51,7 +51,7 @@ There are real ones in there. Finding them earns points.
 | Ch6 | Possibly the Z-Score Filter value of 3 is erroneous. When filtering using 3, 100 does not get identified as an outlier; but changing the filter value to 2 does. |
 | Ch7 | The syntax and instructions was right, however the value of Cross-Validation (CV) in the RFE program was wrong. Having 5 as the value of CV was an error, since there are required pairings in order to satisfy R2 (Coefficient of Determination). Assuming the data set given has 6 rows, having 5 as the value makes the number of pairs imbalanced or the array pairing is wrong. With 3, there are exact number of pairs that allows R2 to perform its equation and provide a result. |
 | Ch8 | No Errors Found |
-| Ch9 | No Errors Found |
+| Ch9 | The error found in chapter 9 was simply the value inside the program; titanic_preprocessed[:,2]. The number 2 represents the processed data cat__Embarked_C instead of num__Age. Replacing 2 with 0 simply fixes this issue. Additionally, another simple issue was discovered in relation to Discretization, since the labeling was quite contradicting. Simply interchanging the label "Before Discretization" with "After Discretization" fixes this problem.
 
 ## 🤖 Note on AI tools
 
